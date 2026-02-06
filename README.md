@@ -20,3 +20,4 @@ LinkedIn: [www.linkedin.com/in/maha-fariz]
 
 💻 My Projects :
 
+[double_half_calc.c](
