@@ -20,4 +20,5 @@ LinkedIn: [www.linkedin.com/in/maha-fariz]
 
 💻 My Projects :
 
-[double_half_calc.c](
+double half calculator](.\double_half_calc.c) A simple C program that takes an integer input to calculate and display its double and half values.
+
