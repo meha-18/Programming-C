@@ -24,3 +24,4 @@ LinkedIn: [www.linkedin.com/in/maha-fariz]
 
 [birthday special checker](./birthday_special_checker.c) A personalized C program that checks for specific birth months (November and April) and displays a special greeting.
 
+[number sign checker](./number_sign_checker.c) A C program that evaluates whether an input integer is positive, negative, or zero using conditional branching.
