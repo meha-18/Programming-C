@@ -22,3 +22,5 @@ LinkedIn: [www.linkedin.com/in/maha-fariz]
 
 [double half calculator](./double_half_calc.c) A simple C program that takes an integer input to calculate and display its double and half values.
 
+[birthday special checker](./birthday_special_checker.c) A personalized C program that checks for specific birth months (November and April) and displays a special greeting.
+
