@@ -26,4 +26,4 @@ LinkedIn: [www.linkedin.com/in/maha-fariz]
 
 [number sign checker](./number_sign_checker.c) A C program that evaluates whether an input integer is positive, negative, or zero using conditional branching.
 
-[student_rank_checker](./student rank checker.c) A comprehensive C program that manages student data, calculates grade averages for multiple subjects, and determines academic honors using advanced formatting and logical structures.
+[student_rank_checker](./student_rank_checker.c) A comprehensive C program that manages student data, calculates grade averages for multiple subjects, and determines academic honors using advanced formatting and logical structures.
